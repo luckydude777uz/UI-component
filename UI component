@@ -1,0 +1,11 @@
+# UI-component
+
+No matter which of these three buttons we click,
+
+it will always open this modal window.
+
+And to close this window, we can either click this button here,
+
+or we can click outside of the window. And finally, we can also close this window
+
+by pressing the Esc key on our keyboard.
